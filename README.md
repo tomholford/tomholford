@@ -1,6 +1,7 @@
 Welcome to my [GitHub][GitHub] page! Here are highlights of my recent projects.
 
 - :octopus: **tako.social** (WIP) A [platform](https://tako.social) to connect multiple social accounts, cross-post to them, and analyze engagement. 
+- :floppy_disk: `media-downloader` [A Deno CLI tool](https://github.com/tomholford/media-downloader) for downloading linked media from web pages.
 - :gem: `twitter-labs-api` [A Ruby gem](https://github.com/tomholford/twitter-labs-api) for the new Twitter Labs API.
 - :blue_book: `jisho-api` [A Ruby gem](https://github.com/tomholford/jisho-api) for the unofficial Jisho API.
 

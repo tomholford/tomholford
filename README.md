@@ -1,4 +1,6 @@
-Welcome to my [GitHub][GitHub] page! Here are highlights of my recent projects.
+:bulb: Need an MVP for your startup idea? I have built many successful products that have gone from paper to prototype in weeks. Let's connect!
+
+Here are some highlights of my recent projects:
 
 - :octopus: **tako.social** (WIP) A [platform](https://tako.social) to connect multiple social accounts, cross-post to them, and analyze engagement. 
 - :cd: `media-downloader` [A Deno CLI tool](https://github.com/tomholford/media-downloader) for downloading linked media from web pages.
@@ -6,7 +8,6 @@ Welcome to my [GitHub][GitHub] page! Here are highlights of my recent projects.
 - :gem: `twitter-labs-api` [A Ruby gem](https://github.com/tomholford/twitter-labs-api) for the new Twitter Labs API.
 - :blue_book: `jisho-api` [A Ruby gem](https://github.com/tomholford/jisho-api) for the unofficial Jisho API.
 
-Need an MVP for your startup idea? I have built many successful products that have gone from paper to prototype in weeks. Let's connect!
 
 <div align="middle">
   

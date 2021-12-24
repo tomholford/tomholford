@@ -1,6 +1,3 @@
-:bulb: Need an MVP for your startup idea? I have built many successful products that have gone from paper to prototype in weeks. Let's connect!
-
-
 <div align="middle">
   
 [Check out my website][Website] :link: &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

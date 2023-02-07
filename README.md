@@ -8,7 +8,7 @@
 
 Here are some highlights of my recent projects:
 
-- :chart_with_upwards_trend: `%hodl` [A digital asset portfolio app](https://github.com/tomholford/hodl) for [urbit](https://github.com/urbit/urbit)
+- :chart_with_upwards_trend: `%hodl` [A digital asset portfolio app]([https://github.com/tomholford/hodl](https://urbit.org/applications/~datder-sonnet/hodl)) for [urbit](https://github.com/urbit/urbit)
 - :ringed_planet: `gonetia` [A Go CLI tool](https://github.com/tomholford/gonetia) for generating a list of [Urbit](https://urbit.org/) planets under a [star](https://developers.urbit.org/reference/glossary/star)
 - :octopus: **tako.social** (sunset) A platform to connect multiple social accounts, cross-post to them, and analyze engagement.
 - :cd: `media-downloader` [A Deno CLI tool](https://github.com/tomholford/media-downloader) for downloading linked media from web pages.
